@@ -1,5 +1,5 @@
 # Leetcode-Algorithm-Practice
-Preparing for the code interview
+My name is Wei Wang, a graduate student from Columbia University Engineering School, seeking 2022 summer intern and 2023 full-time software engineer job.
 
 I will update the codes and notes after I solve every leetcode problem. These problems will be categorized by the algorithms.
 
