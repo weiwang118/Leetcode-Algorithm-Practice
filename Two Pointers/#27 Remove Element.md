@@ -1,6 +1,7 @@
 #### #27 Remove Element
 [Leetcode #27](https://leetcode.com/problems/remove-element/)  
 ###### My Solution  
+![27.移除元素-暴力解法](https://tva1.sinaimg.cn/large/008eGmZEly1gntrc7x9tjg30du09m1ky.gif)
 ```
 class Solution {
 public:
@@ -26,7 +27,7 @@ Time Complexity: O(n^2)
 Space Complexity: O(1)  
 
 ##### Better Solution from Carl
-![image](https://user-images.githubusercontent.com/93847013/147716433-dbff3e0a-3ceb-4100-b9ac-77cd5dc8acf5.png)
+![27.移除元素-双指针法](https://tva1.sinaimg.cn/large/008eGmZEly1gntrds6r59g30du09mnpd.gif)
 ```
 class Solution {
 public:
