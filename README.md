@@ -7,3 +7,7 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 2021.12.28 Update  
 [Binary Search Fundamentals](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Binary%20Search/Fundamentals.md)  
 [#35 Search Insert Position](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Binary%20Search/%2335%20Search%20Insert%20Position.md)  
+
+## Two Pointers
+2021.12.29 Update  
+[#27 Remove Element](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/%2327%20Remove%20Element.md)
