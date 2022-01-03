@@ -12,4 +12,7 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 
 ## Two Pointers
 2021.12.29 Update  
-[#27 Remove Element](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/%2327%20Remove%20Element.md)
+[#27 Remove Element](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/%2327%20Remove%20Element.md)  
+2022.1.3 Update  
+[#977 Squares of a Sorted Array](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/%23977%20Squares%20of%20a%20Sorted%20Array.md)  
+[#209 Minimum Size Subarray Sum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/%23209%20Minimum%20Size%20Subarray%20Sum.md)-Sliding Window  
