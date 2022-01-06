@@ -6,18 +6,18 @@ class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
             ListNode *pre=nullptr;
-            while(head!=NULL&&head->val==val)
-                    head=head->next;
-            
             ListNode *cur=head;
             while(cur){
                 if(cur->val==val){
-                        if(cur->next==nullptr)
-                        {pre->next=nullptr;cur=nullptr;}
+                        if(pre==nullptr){
+                               head=head->next; 
+                               cur=head;
+                        }
                         else{
                                 pre->next=cur->next;
                                 cur=cur->next;
                         }
+                        
                 }
                     else{
                      pre=cur;
@@ -31,6 +31,8 @@ public:
 
 ##### Solution from Carl
 ```
+//Without DummyHead
+//Removing the head is a special case which need be processed specifically
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
@@ -58,6 +60,8 @@ public:
 ```
 
 ```
+// With DummyHead
+//Removing head is not a special case anymore
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
@@ -79,3 +83,6 @@ public:
     }
 };
 ```
+
+##### Notes
+Sometimes if we want to simplify the codes, we can add a dummy head to the original head so that we don't need to deal with the special situaiton of head.  
