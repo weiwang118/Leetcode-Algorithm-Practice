@@ -17,7 +17,7 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#977 Squares of a Sorted Array](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/%23977%20Squares%20of%20a%20Sorted%20Array.md)  
 [#209 Minimum Size Subarray Sum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/%23209%20Minimum%20Size%20Subarray%20Sum.md)-Sliding Window  
 [#3 Longest Substring Without Repeating Characters](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/%233%20Longest%20Substring%20Without%20Repeating%20Characters.md)-Sliding Window  
-2022.1.6 Update
+2022.1.6 Update  
 [Sliding Window Notes](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/Sliding%20Window%20Notes.md)  
 
 ## Linked List
