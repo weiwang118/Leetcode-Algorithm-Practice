@@ -21,3 +21,5 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 ## Linked List
 2022.1.4 Update  
 [#203 Remove Linked List Elements](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Linked%20List/%23203%20Remove%20Linked%20List%20Elements.md)  
+2022.1.5 Update  
+[#707 Design Linked List](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Linked%20List/%23707%20Design%20Linked%20List.md)  
