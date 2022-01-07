@@ -29,4 +29,4 @@ public:
 };
 ```
 ##### Notes
-The key to the question is that if the sum repeats, it means it loops endlessly in a circle. As we all know, unordered_set is quite efficient to lookup an element, so we insert the sum to the set and check the following sum repeats.  
+The key to the question is that if the sum repeats, it means it loops endlessly in a circle. As we all know, unordered_set is quite efficient to lookup an element, so we insert the sum to the set and check if the following sum repeats.  
