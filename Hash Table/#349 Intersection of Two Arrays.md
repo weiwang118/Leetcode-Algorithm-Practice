@@ -1,4 +1,4 @@
-#### ##349 Intersection of Two Arrays
+#### #349 Intersection of Two Arrays
 [Leetcode #349](https://leetcode.com/problems/intersection-of-two-arrays/)  
 
 ##### My Solution
