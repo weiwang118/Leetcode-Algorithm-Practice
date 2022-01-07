@@ -48,3 +48,6 @@ public:
 ```
 Time Complexity: O(n)  
 Space Complexity:O(1)  
+
+##### Notes
+If the range for the data is small, we can use the array as the Hash Table  
