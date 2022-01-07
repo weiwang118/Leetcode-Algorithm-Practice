@@ -57,3 +57,5 @@ public:
     }
 };
 ```
+##### Notes
+Another way to use two pointers method: keep a fixed distance between two pointers and remove two pointers at the sametime so that we can locate Nth node from end of List.  
