@@ -11,6 +11,7 @@ public:
             for( i=0;i<nums.size();i++)
                     _map.insert({nums[i],i});
             unordered_map<int,int>:: iterator it;
+            // can change to "auto it=map.find(target-nums[i])"
             for( i=0;i<nums.size();i++){
                     it=_map.find(target-nums[i]);
                     if(it!=_map.end()&&it->second!=i)
@@ -23,6 +24,7 @@ public:
 ```
 Time Complexity: O(n)  
 Space Complexity: O(n)  
+
 ![](https://code-thinking.cdn.bcebos.com/gifs/1.两数之和.gif)  
 ##### Solution from Carl
 ```
