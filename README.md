@@ -35,4 +35,11 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#242 Valid Anagram](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%23242%20Valid%20Anagram.md)  
 [#1002 Find Common Characters](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%231002%20Find%20Common%20Characters.md)  
 [#349 Intersection of Two Arrays](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%23349%20Intersection%20of%20Two%20Arrays.md)  
+2022.1.7 Update  
+[Hash Table Fundamentals](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/Hash%20Table%20Fundamentals.md)  
+[#202 Happy Number](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%23202%20Happy%20Number.md)  
+[#1 Two Sum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%231%20Two%20Sum.md)  
+[#454 4SumII](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%23454%204Sum%20II.md)  
+[#383 Ransom Note](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%23383%20Ransom%20Note.md)  
 
+## Tree
