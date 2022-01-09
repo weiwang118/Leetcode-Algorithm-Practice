@@ -27,7 +27,7 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#707 Design Linked List](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Linked%20List/%23707%20Design%20Linked%20List.md)  
 2022.1.6 Update  
 [#24 Swap Nodes in Pairs](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Linked%20List/%2324%20Swap%20Nodes%20in%20Pairs.md)  
-[#206 Reverse Linked List](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Linked%20List/%23206%20Reverse%20Linked%20List.md)  
+[#206 Reverse Linked List](https://github.com/MissHela/Leetcode-Algorithm-P ractice/blob/main/Linked%20List/%23206%20Reverse%20Linked%20List.md)  
 [#160 Intersection of Two Linked Lists](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Linked%20List/%23160%20Intersection%20of%20Two%20Linked%20Lists.md)  
 
 ## Hash Table
@@ -43,3 +43,9 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#383 Ransom Note](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%23383%20Ransom%20Note.md)  
 
 ## Tree
+2022.1.8 Update  
+[Tree Fundamentals](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/Tree%20Fundamentals.md)  
+[#94 Binary Tree Inorder Traversal](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%2394%20Binary%20Tree%20Inorder%20Traversal.md)  
+[#144 Binary Tree Preorder Traversal](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23144%20Binary%20Tree%20Preorder%20Traversal.md#144-binary-tree-preorder-traversal)  
+[#145 Binary Tree Postorder Traversal](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23145%20Binary%20Tree%20Postorder%20Traversal.md)  
+[#102 Binary Tree Level Order Traversal](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23102%20Binary%20Tree%20Level%20Order%20Traversal.md)  
