@@ -49,3 +49,15 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#144 Binary Tree Preorder Traversal](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23144%20Binary%20Tree%20Preorder%20Traversal.md#144-binary-tree-preorder-traversal)  
 [#145 Binary Tree Postorder Traversal](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23145%20Binary%20Tree%20Postorder%20Traversal.md)  
 [#102 Binary Tree Level Order Traversal](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23102%20Binary%20Tree%20Level%20Order%20Traversal.md)  
+2022.1.9 Update  
+[#107 Binary Tree Level Order Traversal II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23107%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)  
+[#199 Binary Tree Right Side View](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23199%20Binary%20Tree%20Right%20Side%20View.md)  
+[#637 Average of Levels in Binary Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23637%20Average%20of%20Levels%20in%20Binary%20Tree.md)  
+[#429 N-ary Tree Level Order Traversal](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23429%20N-ary%20Tree%20Level%20Order%20Traversal.md)  
+[#515 Find Largest Value in Each Tree Row](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23515%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)  
+[#116 Populating Next Right Pointers in Each Node](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23116%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)  
+[#117 Populating Next Right Pointers in Each Node II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23117%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)  
+[#104 Maximum Depth of Binary Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23104%20Maximum%20Depth%20of%20Binary%20Tree.md)  
+[#111 Minimum Depth of Binary Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23111%20Minimum%20Depth%20of%20Binary%20Tree.md)  
+[#226 Invert Binary Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23226%20Invert%20Binary%20Tree.md)  
+
