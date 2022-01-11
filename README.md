@@ -67,3 +67,6 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#257 Binary Tree Paths](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23257%20Binary%20Tree%20Paths.md)  
 [#100 Same Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23100%20Same%20Tree.md)  
 [#404 Sum of Left Leaves](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23404%20Sum%20of%20Left%20Leaves.md)  
+[#513 Find Bottom Left Tree Value](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23513%20Find%20Bottom%20Left%20Tree%20Value.md)  
+[#112 Path Sum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23112%20Path%20Sum.md)  
+[#113 Path Sum II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23113%20Path%20Sum%20II.md)  
