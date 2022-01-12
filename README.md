@@ -70,3 +70,8 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#513 Find Bottom Left Tree Value](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23513%20Find%20Bottom%20Left%20Tree%20Value.md)  
 [#112 Path Sum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23112%20Path%20Sum.md)  
 [#113 Path Sum II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23113%20Path%20Sum%20II.md)  
+2022.1.11 Update  
+[#106 Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23106%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)  
+[#105 Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23105%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)  
+[#654 Maximum Binary Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23654%20Maximum%20Binary%20Tree.md)  
+[#617 Merge Two Binary Trees](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23617%20Merge%20Two%20Binary%20Trees.md)  
