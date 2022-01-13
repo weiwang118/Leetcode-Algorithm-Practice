@@ -75,3 +75,9 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#105 Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23105%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)  
 [#654 Maximum Binary Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23654%20Maximum%20Binary%20Tree.md)  
 [#617 Merge Two Binary Trees](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23617%20Merge%20Two%20Binary%20Trees.md)  
+2022.1.12 Update  
+[#700 Search in a Binary Search Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23700%20Search%20in%20a%20Binary%20Search%20Tree.md)  
+[#98 Validate Binary Search Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%2398%20Validate%20Binary%20Search%20Tree.md)  
+[#530 Minimum Absolute Difference in BST](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23530%20Minimum%20Absolute%20Difference%20in%20BST.md)  
+[#501 Find Mode in Binary Search Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23501%20Find%20Mode%20in%20Binary%20Search%20Tree.md)  
+[#236 Lowest Common Ancestor of a Binary Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23236%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)  
