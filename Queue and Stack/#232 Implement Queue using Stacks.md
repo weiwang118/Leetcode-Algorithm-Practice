@@ -49,7 +49,7 @@ public:
 };
 
 ```
-
+![232.用栈实现队列版本2](https://code-thinking.cdn.bcebos.com/gifs/232.用栈实现队列版本2.gif)
 ##### Solution from Carl
 ```
 class MyQueue {
