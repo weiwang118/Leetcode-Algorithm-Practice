@@ -88,8 +88,11 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#669 Trim a Binary Search Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23669%20Trim%20a%20Binary%20Search%20Tree.md)  
 [#108 Convert Sorted Array to Binary Search Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23108%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)  
 [#538 Convert BST to Greater Tree](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/%23538%20Convert%20BST%20to%20Greater%20Tree.md)  
+
+## Queue and Stack
+2022.1.13 Update  
 [#232 Implement Queue using Stacks](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%23232%20Implement%20Queue%20using%20Stacks.md)  
-[#225 Implement Stack using Queues](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%23225%20Implement%20Stack%20using%20Queues.md)  
+[#225 Implement Stack using Queues](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%23225%20Implement%20Stack%20using%20Queues.md) 
 2022.1.15 Update  
 [#20 Valid Parentheses](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%2320%20Valid%20Parentheses.md)  
 [#1047 Remove All Adjacent Duplicates In String](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%231047%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)  
