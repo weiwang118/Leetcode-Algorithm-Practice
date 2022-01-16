@@ -98,3 +98,4 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#1047 Remove All Adjacent Duplicates In String](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%231047%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)  
 [#150 Evaluate Reverse Polish Notation](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%23150%20Evaluate%20Reverse%20Polish%20Notation.md)  
 [#239 Sliding Window Maximum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%23239%20Sliding%20Window%20Maximum.md)  
+[#347 Top K Frequent Elements](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%23347%20Top%20K%20Frequent%20Elements.md)  
