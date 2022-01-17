@@ -99,3 +99,9 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#150 Evaluate Reverse Polish Notation](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%23150%20Evaluate%20Reverse%20Polish%20Notation.md)  
 [#239 Sliding Window Maximum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%23239%20Sliding%20Window%20Maximum.md)  
 [#347 Top K Frequent Elements](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%23347%20Top%20K%20Frequent%20Elements.md)  
+
+## String
+2022.1.16 Update  
+[#344 Reverse String](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%23344%20Reverse%20String.md)  
+[#541 Reverse String II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%23541%20Reverse%20String%20II.md)  
+[#151 Reverse Words in a String](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%23151%20Reverse%20Words%20in%20a%20String.md)  
