@@ -27,7 +27,7 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#707 Design Linked List](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Linked%20List/%23707%20Design%20Linked%20List.md)  
 2022.1.6 Update  
 [#24 Swap Nodes in Pairs](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Linked%20List/%2324%20Swap%20Nodes%20in%20Pairs.md)  
-[#206 Reverse Linked List](https://github.com/MissHela/Leetcode-Algorithm-P ractice/blob/main/Linked%20List/%23206%20Reverse%20Linked%20List.md)  
+[#206 Reverse Linked List](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Linked%20List/%23206%20Reverse%20Linked%20List.md)  
 [#160 Intersection of Two Linked Lists](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Linked%20List/%23160%20Intersection%20of%20Two%20Linked%20Lists.md)  
 
 ## Hash Table
