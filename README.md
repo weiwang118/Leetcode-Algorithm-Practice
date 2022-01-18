@@ -105,3 +105,11 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#344 Reverse String](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%23344%20Reverse%20String.md)  
 [#541 Reverse String II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%23541%20Reverse%20String%20II.md)  
 [#151 Reverse Words in a String](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%23151%20Reverse%20Words%20in%20a%20String.md)  
+
+2022.1.17 Update  
+[#28 Implement strStr()](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%2328%20Implement%20strStr().md)  
+[#459 Repeated Substring Pattern](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%23459%20Repeated%20Substring%20Pattern.md)  
+[#409 Longest Palindrome](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%23409%20Longest%20Palindrome.md)  
+[#647 Palindromic Substrings](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%23647%20Palindromic%20Substrings.md)  
+[#9 Palindrome Number](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%239%20Palindrome%20Number.md)  
+
