@@ -113,6 +113,11 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#647 Palindromic Substrings](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%23647%20Palindromic%20Substrings.md)  
 [#9 Palindrome Number](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%239%20Palindrome%20Number.md)  
 
+2022.1.21 Update  
+[String Fundamentals](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/String%20Fundamentals.md)  
+[#58 Length of Last Word](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%2358%20Length%20of%20Last%20Word.md)  
+[#557 Reverse Words in a String III](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%23557%20Reverse%20Words%20in%20a%20String%20III.md)  
+
 ## Top Interview Questions
 2022.1.20 Update  
 [#1275 Find Winner on a Tic Tac Toe Game](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%231275%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.md)  
@@ -125,4 +130,11 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#696 Count Binary Substrings](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%23696%20Count%20Binary%20Substrings.md)  
 [#937 Reorder Data in Log Files](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%23937%20Reorder%20Data%20in%20Log%20Files.md)  
 
+2022.1.21 Update  
+[#21. Merge Two Sorted Lists](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%2321.%20Merge%20Two%20Sorted%20Lists.md)  
+[#973 K Closest Points to Origin](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%23973%20K%20Closest%20Points%20to%20Origin.md)  
+[#819 Most Common Word](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%23819%20Most%20Common%20Word.md)  
+[#1876 Substrings of Size Three with Distinct Characters](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%231876%20Substrings%20of%20Size%20Three%20with%20Distinct%20Characters.md)  
+[#5 Longest Palindromic Substring](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%235%20Longest%20Palindromic%20Substring.md)  
+[#1180 Count Substrings with Only One Distinct Letter](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%231180%20Count%20Substrings%20with%20Only%20One%20Distinct%20Letter.md)  
 
