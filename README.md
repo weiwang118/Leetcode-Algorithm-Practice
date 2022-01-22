@@ -113,3 +113,15 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#647 Palindromic Substrings](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%23647%20Palindromic%20Substrings.md)  
 [#9 Palindrome Number](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/String/%239%20Palindrome%20Number.md)  
 
+## Top Interview Questions
+[#1275 Find Winner on a Tic Tac Toe Game](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%231275%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.md)  
+[#146 LRU Cache](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%23146%20LRU%20Cache.md)  
+[#1710 Maximum Units on a Truck](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%231710%20Maximum%20Units%20on%20a%20Truck.md)  
+[#200 Number of Islands](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%23200%20Number%20of%20Islands.md)  
+[#253 Meeting Rooms II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%23253%20Meeting%20Rooms%20II.md)  
+[#387 First Unique Character in a String](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%23387%20First%20Unique%20Character%20in%20a%20String.md)  
+[#56 Merge Intervals](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%2356%20Merge%20Intervals.md)  
+[#696 Count Binary Substrings](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%23696%20Count%20Binary%20Substrings.md)  
+[#937 Reorder Data in Log Files](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%23937%20Reorder%20Data%20in%20Log%20Files.md)  
+
+
