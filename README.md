@@ -138,3 +138,17 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#5 Longest Palindromic Substring](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%235%20Longest%20Palindromic%20Substring.md)  
 [#1180 Count Substrings with Only One Distinct Letter](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%231180%20Count%20Substrings%20with%20Only%20One%20Distinct%20Letter.md)  
 
+2022.1.22 Update  
+[#2 Add Two Numbers](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%232%20Add%20Two%20Numbers.md)  
+
+## Backtracking
+2022.1.22 Update  
+[#77 Combinations](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2377%20Combinations.md)  
+[#216 Combination Sum III](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%23216%20Combination%20Sum%20III.md)  
+[#17 Letter Combinations of a Phone Number](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2317%20Letter%20Combinations%20of%20a%20Phone%20Number.md)  
+
+## Greedy
+2022.1.22 Update  
+[#455 Assign Cookies](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23455%20Assign%20Cookies.md)  
+[#376 Wiggle Subsequence](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23376%20Wiggle%20Subsequence.md)  
+[#53 Maximum Subarray](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%2353%20Maximum%20Subarray.md)  
