@@ -141,6 +141,10 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 2022.1.22 Update  
 [#2 Add Two Numbers](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%232%20Add%20Two%20Numbers.md)  
 
+2022.1.23 Update  
+[#1846 Maximum Element After Decreasing and Rearranging](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%231846%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging.md)  
+[#1492 The kth Factor of n](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%231492%20The%20kth%20Factor%20of%20n.md)  
+
 ## Backtracking
 2022.1.22 Update  
 [#77 Combinations](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2377%20Combinations.md)  
