@@ -1,5 +1,5 @@
 #### #1492 The kth Factor of n
-[Leetcode #1492](#1492 The kth Factor of n)  
+[Leetcode #1492](https://leetcode.com/problems/the-kth-factor-of-n/)  
 
 ##### My Solution
 ```
