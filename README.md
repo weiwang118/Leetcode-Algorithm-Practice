@@ -151,6 +151,11 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#216 Combination Sum III](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%23216%20Combination%20Sum%20III.md)  
 [#17 Letter Combinations of a Phone Number](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2317%20Letter%20Combinations%20of%20a%20Phone%20Number.md)  
 
+2022.1.24 Update  
+[#39 Combination Sum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2339%20Combination%20Sum.md)  
+[#40 Combination Sum II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2340%20Combination%20Sum%20II.md)  
+[#131 Palindrome Partitioning](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%23131%20Palindrome%20Partitioning.md)  
+
 ## Greedy
 2022.1.22 Update  
 [#455 Assign Cookies](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23455%20Assign%20Cookies.md)  
