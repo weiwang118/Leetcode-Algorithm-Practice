@@ -156,6 +156,13 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#40 Combination Sum II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2340%20Combination%20Sum%20II.md)  
 [#131 Palindrome Partitioning](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%23131%20Palindrome%20Partitioning.md)  
 
+2022.1.25 Update  
+[#93 Restore IP Addresses](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2393%20Restore%20IP%20Addresses.md)  
+[#78 Subsets](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2378%20Subsets.md)  
+[#90 Subsets II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2390%20Subsets%20II.md)  
+[#491 Increasing Subsequences](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%23491%20Increasing%20Subsequences.md)  
+
+
 ## Greedy
 2022.1.22 Update  
 [#455 Assign Cookies](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23455%20Assign%20Cookies.md)  
