@@ -171,6 +171,7 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#53 Maximum Subarray](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%2353%20Maximum%20Subarray.md)  
 
 2022.1.25 Update  
-[#122 Best Time to Buy and Sell Stock II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23122%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)   [#55 Jump Game](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%2355%20Jump%20Game.md)  
+[#122 Best Time to Buy and Sell Stock II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23122%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)   
+[#55 Jump Game](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%2355%20Jump%20Game.md)  
 
 
