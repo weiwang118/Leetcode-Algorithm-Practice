@@ -161,10 +161,16 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#78 Subsets](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2378%20Subsets.md)  
 [#90 Subsets II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2390%20Subsets%20II.md)  
 [#491 Increasing Subsequences](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%23491%20Increasing%20Subsequences.md)  
-
+[#46 Permutations](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2346%20Permutations.md)  
+[#47 Permutations II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/backtracking/%2347%20Permutations%20II.md)  
 
 ## Greedy
 2022.1.22 Update  
 [#455 Assign Cookies](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23455%20Assign%20Cookies.md)  
 [#376 Wiggle Subsequence](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23376%20Wiggle%20Subsequence.md)  
 [#53 Maximum Subarray](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%2353%20Maximum%20Subarray.md)  
+
+2022.1.25 Update  
+[#122 Best Time to Buy and Sell Stock II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23122%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) [#55 Jump Game](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%2355%20Jump%20Game.md)  
+
+
