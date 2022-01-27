@@ -174,4 +174,11 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#122 Best Time to Buy and Sell Stock II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23122%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)   
 [#55 Jump Game](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%2355%20Jump%20Game.md)  
 
+2022.1.26 Update  
+[#1005 Maximize Sum Of Array After K Negations](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%231005%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.md)  
+[#134 Gas Station](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23134%20Gas%20Station.md)  
+[#135 Candy](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23135%20Candy.md)  
+[#45 Jump Game II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%2345%20Jump%20Game%20II.md)  
+[#860 Lemonade Change](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23860%20Lemonade%20Change.md)  
+
 
