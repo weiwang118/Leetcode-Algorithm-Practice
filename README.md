@@ -181,4 +181,15 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#45 Jump Game II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%2345%20Jump%20Game%20II.md)  
 [#860 Lemonade Change](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23860%20Lemonade%20Change.md)  
 
+2022.1.27 Update  
+[#406 Queue Reconstruction by Height](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23406%20Queue%20Reconstruction%20by%20Height.md)  
+[#435 Non-overlapping Intervals](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23435%20Non-overlapping%20Intervals.md)  
+[#452 Minimum Number of Arrows to Burst Balloons](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23452%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md)  
+[#714 Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23714%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md)  
+[#738 Monotone Increasing Digits](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23738%20Monotone%20Increasing%20Digits.md)  
+[#763 Partition Labels](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23763%20Partition%20Labels.md)  
+
+
+
+
 
