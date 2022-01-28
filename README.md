@@ -190,5 +190,6 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#763 Partition Labels](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/greedy/%23763%20Partition%20Labels.md)  
 
 ## Dynamic Programming  
+2022.1.27 Update  
 [#70 Climbing Stairs](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%2370%20Climbing%20Stairs.md)  
 [#509 Fibonacci Number](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%23509%20Fibonacci%20Number.md)  
