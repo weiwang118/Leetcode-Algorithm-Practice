@@ -193,3 +193,11 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 2022.1.27 Update  
 [#70 Climbing Stairs](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%2370%20Climbing%20Stairs.md)  
 [#509 Fibonacci Number](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%23509%20Fibonacci%20Number.md)  
+
+2022.1.28 Update  
+[#343 Integer Break](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%23343%20Integer%20Break.md)  
+[#62 Unique Paths](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%2362%20Unique%20Paths.md)  
+[#63 Unique Paths II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%2363%20Unique%20Paths%20II.md)  
+[#746 Min Cost Climbing Stairs](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%23746%20Min%20Cost%20Climbing%20Stairs.md)  
+[#96 Unique Binary Search Trees](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%2396%20Unique%20Binary%20Search%20Trees.md)  
+
