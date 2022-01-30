@@ -201,3 +201,7 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#746 Min Cost Climbing Stairs](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%23746%20Min%20Cost%20Climbing%20Stairs.md)  
 [#96 Unique Binary Search Trees](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%2396%20Unique%20Binary%20Search%20Trees.md)  
 
+2022.1.29 Update  
+[#1049 Last Stone Weight II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%231049%20Last%20Stone%20Weight%20II.md)  
+[#416 Partition Equal Subset Sum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%23416%20Partition%20Equal%20Subset%20Sum.md)  
+
