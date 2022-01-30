@@ -50,3 +50,6 @@ public:
 ```
 Time Complexity: O(nm)  
 Space Complexity: O(m)  
+
+##### Notes:
+The most important part is how to convert this problem to 0/1 knapsack problem. Remember 0/1 knapsack problem is about whether put one item in a knapsack and in this question, you need to think add how many numbers to the sum!!!  No minus!!!! Because we only put items on knapsack, not removing from it!!!  
