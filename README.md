@@ -205,3 +205,8 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#1049 Last Stone Weight II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%231049%20Last%20Stone%20Weight%20II.md)  
 [#416 Partition Equal Subset Sum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%23416%20Partition%20Equal%20Subset%20Sum.md)  
 
+2022.1.30 Update  
+[#377 Combination Sum IV](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%23377%20Combination%20Sum%20IV.md)  
+[#474 Ones and Zeroes](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%23474%20Ones%20and%20Zeroes.md)  
+[#494 Target Sum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%23494%20Target%20Sum.md)  
+[#518 Coin Change 2](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%23518%20Coin%20Change%202.md)  
