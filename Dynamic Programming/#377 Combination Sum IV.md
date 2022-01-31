@@ -21,5 +21,5 @@ public:
 
 ```
 
-##### Notes:
+##### Notes: Complete Knapsack Problem
 This is a permutation problem!!!! Traverse the knapsack first and then the items!!!   
