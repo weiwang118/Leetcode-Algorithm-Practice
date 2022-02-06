@@ -499,3 +499,4 @@ int main()
 	return 0;
 }
 ```
+17. [K smallest substring](https://www.1point3acres.com/bbs/thread-839587-1-1.html)  
