@@ -27,6 +27,23 @@ public:
 Time Complexity: O(n)  
 Space Complexity: O(n)  
 
+##### Java Solution
+```
+class Solution {
+    public int[] sortedSquares(int[] nums) {
+        int []result=new int[nums.length];
+        int front=0;
+        int i=nums.length-1;
+            for(int back=nums.length-1;back>=front;){
+                    if(nums[back]*nums[back]>nums[front]*nums[front])
+                            result[i--]=nums[back]*nums[back--];
+                    else result[i--]=nums[front]*nums[front++];
+            }
+        return result;
+    }
+}
+```
+
 ##### Solution From Carl
 ```
 class Solution {
