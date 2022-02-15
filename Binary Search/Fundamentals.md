@@ -11,6 +11,11 @@ Do I use left or right
 When to exit the loop  
 ...  
 #### The Pattern
+我们定义 target 是在一个在左闭右闭的区间里，也就是[left, right] （这个很重要非常重要）。  
+区间的定义这就决定了二分法的代码应该如何写，因为定义target在[left, right]区间，所以有如下两点：  
+while (left <= right) 要使用 <= ，因为left == right是有意义的，所以使用 <=  
+if (nums[middle] > target) right 要赋值为 middle - 1，因为当前这个nums[middle]一定不是target，那么接下来要查找的左区间结束下标位置就是 middle - 1  
+
 1. Boundary
    choice of left and right: we normally set it to the original range of the array  
    ```
