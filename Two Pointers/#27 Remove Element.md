@@ -44,3 +44,19 @@ public:
 ```
 Time Complexity：O(n)  
 Space Complexity：O(1)  
+
+##### Java Solution
+```
+class Solution {
+    public int removeElement(int[] nums, int val) {
+        int slowIdx=0;
+        for(int fastIdx=0;fastIdx<=nums.length-1;fastIdx++){
+                if(nums[fastIdx]!=val){
+                        nums[slowIdx++]=nums[fastIdx];
+                }
+        }
+            return slowIdx;
+            
+    }
+}
+```
