@@ -76,3 +76,5 @@ if (nums[middle] > target) right 要赋值为 middle - 1，因为当前这个num
     }
 }
   ```
+  Time Complexity: O(logn)  
+  Space Complexity: O(1)  
