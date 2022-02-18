@@ -2,8 +2,19 @@
 My name is Wei Wang, a graduate student from Columbia University Engineering School, seeking 2022 summer intern and 2023 full-time software engineer job.
 
 I will update the codes and notes after I solve every leetcode problem. These problems will be categorized by the algorithms.
+## Arrays
+2022.2.9 Update  
+[#121 Best Time to Buy and Sell Stock](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Arrays/%23121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)  
+[#217 Contains Duplicate](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Arrays/%23217%20Contains%20Duplicate.md)  
+[#238 Product of Array Except Self](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Arrays/%23238%20Product%20of%20Array%20Except%20Self.md)  
 
-## Binary Search
+2022.2.10 Update  
+[#152 Maximum Product Subarray](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Arrays/%23152%20Maximum%20Product%20Subarray.md)  
+[#53 Maximum Subarray](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Arrays/%2353%20Maximum%20Subarray.md)  
+
+2022.2.17 Update  
+[#153 Find Minimum in Rotated Sorted Array](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Arrays/%23153%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
+## Binary Search 
 2021.12.28 Update  
 [Binary Search Fundamentals](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Binary%20Search/Fundamentals.md)  
 [#35 Search Insert Position](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Binary%20Search/%2335%20Search%20Insert%20Position.md)  
