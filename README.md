@@ -41,7 +41,7 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#1 Two Sum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%231%20Two%20Sum.md)  
 [#454 4SumII](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%23454%204Sum%20II.md)  
 [#383 Ransom Note](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%23383%20Ransom%20Note.md)  
-2022.2.17 Update:  
+2022.2.16 Update:  
 [#1347 Minimum Number of Steps to Make Two Strings Anagram](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%231347%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.md)  
 
 
