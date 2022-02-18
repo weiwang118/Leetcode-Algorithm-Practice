@@ -41,6 +41,9 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#1 Two Sum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%231%20Two%20Sum.md)  
 [#454 4SumII](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%23454%204Sum%20II.md)  
 [#383 Ransom Note](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%23383%20Ransom%20Note.md)  
+2022.2.17 Update:  
+[#1347 Minimum Number of Steps to Make Two Strings Anagram](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%231347%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.md)  
+
 
 ## Tree
 2022.1.8 Update  
@@ -99,6 +102,9 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#150 Evaluate Reverse Polish Notation](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%23150%20Evaluate%20Reverse%20Polish%20Notation.md)  
 [#239 Sliding Window Maximum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%23239%20Sliding%20Window%20Maximum.md)  
 [#347 Top K Frequent Elements](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%23347%20Top%20K%20Frequent%20Elements.md)  
+
+2022.2.17 Update  
+[#353 Design Snake Game](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Queue%20and%20Stack/%23353%20Design%20Snake%20Game.md)  
 
 ## String
 2022.1.16 Update  
@@ -213,3 +219,8 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 
 2022.2.15 Update  
 [#1048 Longest String Chain](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Dynamic%20Programming/%231048%20Longest%20String%20Chain.md)  
+
+## Graph
+2022.2.17 Update  
+[#886 Possible Bipartition](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Graph/%23886%20Possible%20Bipartition.md)  
+
