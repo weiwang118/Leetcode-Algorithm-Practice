@@ -14,6 +14,13 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 
 2022.2.17 Update  
 [#153 Find Minimum in Rotated Sorted Array](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Arrays/%23153%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
+
+2022.2.18 Update  
+[#33 Search in Rotated Sorted Array](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Arrays/%2333%20Search%20in%20Rotated%20Sorted%20Array.md)  
+[#167 Two Sum II - Input Array Is Sorted](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Arrays/%23167%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)  
+[#15 3Sum](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Arrays/%2315%203Sum.md)  
+[#11 Container With Most Water](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Arrays/%2311%20Container%20With%20Most%20Water.md)  
+
 ## Binary Search 
 2021.12.28 Update  
 [Binary Search Fundamentals](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Binary%20Search/Fundamentals.md)  
