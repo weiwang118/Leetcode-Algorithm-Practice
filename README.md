@@ -37,7 +37,11 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 [#3 Longest Substring Without Repeating Characters](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/%233%20Longest%20Substring%20Without%20Repeating%20Characters.md)-Sliding Window  
 2022.1.6 Update  
 [Sliding Window Notes](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/Sliding%20Window%20Notes.md)  
-[#19 Remove Nth Node From End of List](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/%2319%20Remove%20Nth%20Node%20From%20End%20of%20List.md)  
+[#19 Remove Nth Node From End of List](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/%2319%20Remove%20Nth%20Node%20From%20End%20of%20List.md) 
+
+2022.2.14 Update  
+[Two Pointers Fundamentals](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/Two%20Pointers%20Fundamentals.md)  
+
 ## Linked List
 2022.1.4 Update  
 [#203 Remove Linked List Elements](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Linked%20List/%23203%20Remove%20Linked%20List%20Elements.md)  
