@@ -66,6 +66,9 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 2022.2.16 Update:  
 [#1347 Minimum Number of Steps to Make Two Strings Anagram](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%231347%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.md)  
 
+2022.2.20 Update  
+[#128 Longest Consecutive Sequence](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%23128%20Longest%20Consecutive%20Sequence.md)  
+
 
 ## Tree
 2022.1.8 Update  
@@ -245,4 +248,8 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 ## Graph
 2022.2.17 Update  
 [#886 Possible Bipartition](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Graph/%23886%20Possible%20Bipartition.md)  
+
+2022.2.20 Update  
+[#200 Number of Islands](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Top%20Interview%20Questions/%23200%20Number%20of%20Islands.md)  
+[#207 Course Schedule](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Graph/%23207%20Course%20Schedule.md)  
 
