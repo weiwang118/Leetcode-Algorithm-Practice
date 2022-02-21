@@ -28,6 +28,25 @@ public:
     }
 };
 ```
+Use DummyHead  
+```
+class Solution {
+public:
+    ListNode* removeElements(ListNode* head, int val) {
+        ListNode* dummyHead=new ListNode(0,head);
+        ListNode* pre=dummyHead;
+        ListNode* cur=head;
+        while(cur!=NULL){
+                if(cur->val==val)
+                        pre->next=cur->next;
+                else pre=pre->next;
+                cur=cur->next;
+                
+        }
+            return dummyHead->next;
+    }
+};
+```
 
 ##### Solution from Carl
 ```
