@@ -1,5 +1,5 @@
 #### #49 Group Anagrams
-[#49 Group Anagrams](https://leetcode.com/problems/group-anagrams/)  
+[Leetcode #49](https://leetcode.com/problems/group-anagrams/)  
 ##### My Solution
 ```
 class Solution:
