@@ -69,6 +69,8 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 2022.2.20 Update  
 [#128 Longest Consecutive Sequence](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%23128%20Longest%20Consecutive%20Sequence.md)  
 
+2022.7.20 Update  
+[#49 Group Anagrams](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%2349%20Group%20Anagrams.md)  
 
 ## Tree
 2022.1.8 Update  
