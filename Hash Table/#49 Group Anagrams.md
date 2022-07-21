@@ -28,8 +28,8 @@ class Solution:
             hashmap[str(sorted(s))].append(s) 
         return hashmap.values()
 ```
-Time Complexity: N\*MlogM  
-Space Complexity: N  
+Time Complexity: O(N\*MlogM)  
+Space Complexity: O(N)  
 
 ##### Notes
 Remember in Python, the key of dict must be immutable which means list can not be the key.  
