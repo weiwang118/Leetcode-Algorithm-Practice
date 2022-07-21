@@ -45,3 +45,16 @@ public:
 ```
 Time Complexity: O(n)  
 Space Complexity: O(n)  
+
+##### Neetcode Solution
+```
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        hashdict = {}
+        
+        for i, n in enumerate(nums):
+                diff = target - n
+                if diff in hashdict:
+                        return [i, hashdict[diff]]
+                hashdict[n] = i
+```
