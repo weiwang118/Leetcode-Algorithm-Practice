@@ -22,6 +22,22 @@ public:
 Time Complexity: O(n)  
 Space Complexity:O(1)  
 
+```
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        hashset = [0]*26
+        
+        if len(s) != len(t): return False
+        
+        for c in s:
+                hashset[ord(c)-ord('a')] += 1
+        
+        for c in t:
+                hashset[ord(c)-ord('a')] -= 1
+        
+        return True if hashset == [0]*26 else False
+```
+
 ##### Solution from Carl
 ```
 class Solution {
