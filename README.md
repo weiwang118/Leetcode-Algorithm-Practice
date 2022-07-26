@@ -72,6 +72,8 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 2022.7.20 Update  
 [#49 Group Anagrams](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%2349%20Group%20Anagrams.md)  
 
+2022.7.25 Update  
+[#36 Valid Sudoku](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Hash%20Table/%2336%20Valid%20Sudoku.md)  
 ## Tree
 2022.1.8 Update  
 [Tree Fundamentals](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Tree/Tree%20Fundamentals.md)  
