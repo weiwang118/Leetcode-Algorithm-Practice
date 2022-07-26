@@ -47,3 +47,5 @@ class Solution:
                 longest = max(length, longest)
         return longest
 ```
+##### Notes:
+Lookup in set only take O(1) time.
