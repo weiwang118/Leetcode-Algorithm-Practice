@@ -22,6 +22,19 @@ public:
     }
 };
 ```
+```
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        hashmap = defaultdict(int)
+        for n in nums:
+            hashmap[n] += 1
+        ans = []
+        for n in sorted(hashmap, key=hashmap.get, reverse=True):
+            ans.append(n)
+            k = k - 1
+            if k==0: break
+        return ans
+```
 
 ##### Solution from Carl  
 ```
@@ -66,7 +79,27 @@ public:
     }
 };
 ```
+##### Solution from neetcode
+```
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        count = {}
+        freq = [[] for i in range(len(nums) + 1)]
 
+        for n in nums:
+            count[n] = 1 + count.get(n, 0)
+        for n, c in count.items():
+            freq[c].append(n)
+
+        res = []
+        for i in range(len(freq) - 1, 0, -1):
+            for n in freq[i]:
+                res.append(n)
+                if len(res) == k:
+                    return res
+
+        # O(n)
+```
 ##### Notes: priority queue
  A priority queue is an abstract data-type similar to a regular queue or stack data structure in which each element additionally has a "priority" associated with it. In a priority queue, an element with high priority is served before an element with low priority.  
  Define a priority queue: priority_queue<Data Type, Container//(vector/deque)//, Functional//(compare function)//>, the default setting is max-heap with vector as the container.  
