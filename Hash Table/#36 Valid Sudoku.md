@@ -1,5 +1,5 @@
 #### #36 Valid Sudoku
-[Leetcode #136](https://leetcode.com/problems/valid-sudoku/)  
+[Leetcode #36](https://leetcode.com/problems/valid-sudoku/)  
 
 ##### Neetcode Solution
 ```
