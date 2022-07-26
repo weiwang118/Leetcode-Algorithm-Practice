@@ -22,6 +22,23 @@ public:
 Time Complexity: O(n)  
 Space Complexity: O(n)  
 
+```
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        
+        res = [1]*len(nums)
+        for i in range(0, len(nums)-1):
+                res[i] = nums[i] * res[i-1] 
+                
+        right_product = 1
+        for i in range(len(nums)-1, 0, -1): 
+                res[i] = right_product * res[i-1] 
+                right_product *= nums[i] 
+   
+        res[0] = right_product
+        return res
+```
+
 ##### Leetcode Solution
 ```
 class Solution {
