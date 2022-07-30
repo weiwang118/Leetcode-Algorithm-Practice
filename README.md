@@ -42,6 +42,10 @@ I will update the codes and notes after I solve every leetcode problem. These pr
 2022.2.14 Update  
 [Two Pointers Fundamentals](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/Two%20Pointers%20Fundamentals.md)  
 
+2022.7.29 Update  
+[#142 Linked List Cycle II](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/%23142%20Linked%20List%20Cycle%20II.md)  
+[#76 Minimum Window Substring](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Two%20Pointers/%2376%20Minimum%20Window%20Substring.md)  
+
 ## Linked List
 2022.1.4 Update  
 [#203 Remove Linked List Elements](https://github.com/MissHela/Leetcode-Algorithm-Practice/blob/main/Linked%20List/%23203%20Remove%20Linked%20List%20Elements.md)  
