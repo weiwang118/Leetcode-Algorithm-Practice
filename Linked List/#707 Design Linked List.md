@@ -4,79 +4,63 @@
 ```
 class MyLinkedList {
 public:
-    struct LinkNode{
-            int val;
-            LinkNode *next;
-            LinkNode(int v):val(v),next(nullptr){}
+    struct LinkedNode{
+         int val;
+         LinkedNode *next;
+         LinkedNode(int val):val(val), next(nullptr){};
     };
+        
     MyLinkedList() {
-        dummyHead=new LinkNode(0);
-            //dummyHead cannot be nullptr, because nullptr->next is illegal
-        size=0;
+        dummyhead = new LinkedNode(0);
+        size = 0;
     }
     
     int get(int index) {
-        LinkNode *temp=dummyHead;
         if(index>=size||index<0) return -1;
-        for(int i=0;i<=index;i++)
-                temp=temp->next;
-        return temp->val;
+        LinkedNode *cur = dummyhead->next;
+        while(index--)
+                cur = cur->next;
+        return cur->val;
     }
     
     void addAtHead(int val) {
-        LinkNode *newNode=new LinkNode(val);
-        newNode->next=dummyHead->next;
-        dummyHead->next=newNode;
-        size++;
+        LinkedNode *tmp = dummyhead->next;
+        dummyhead->next = new LinkedNode(val);
+        dummyhead->next->next=tmp;
+        ++size;
     }
     
     void addAtTail(int val) {
-        LinkNode *newNode=new LinkNode(val);
-        LinkNode *temp=dummyHead;
-        for(int i=0;i<size;i++)
-                temp=temp->next;
-        temp->next=newNode;
-        size++;
+        LinkedNode *cur = dummyhead;
+        while(cur->next!=NULL)
+                cur = cur->next;
+        cur->next= new LinkedNode(val);
+        ++size;
     }
     
     void addAtIndex(int index, int val) {
-        LinkNode *newNode=new LinkNode(val);
-        if(index==size) addAtTail(val);
-        else if(index<size){
-                LinkNode *cur=dummyHead;
-                for(int i=0;i<index;i++)
-                {
-                        cur=cur->next;
-                }
-                newNode->next=cur->next;
-                cur->next=newNode;
-                size++;
-        } 
+        if(index>size||index<0) return;
+        LinkedNode *cur = dummyhead;
+        while(index--)
+                 cur = cur->next;
+        LinkedNode *tmp = cur->next;
+        cur->next = new LinkedNode(val);
+        cur->next->next = tmp;
+        ++size;
     }
     
     void deleteAtIndex(int index) {
-        if(index<size){
-                LinkNode *cur=dummyHead;
-                for(int i=0;i<index;i++)
-                        cur=cur->next;
-                cur->next=cur->next->next;
-                size--;
-        }
+        if(index>=size||index<0) return;
+        LinkedNode *cur = dummyhead;
+        while(index--)
+                cur = cur->next;
+        cur->next=cur->next->next;
+        --size;
     }
 private:
-LinkNode *dummyHead;
-int size;
+        LinkedNode *dummyhead;
+        int size;
 };
-
-/**
- * Your MyLinkedList object will be instantiated and called as such:
- * MyLinkedList* obj = new MyLinkedList();
- * int param_1 = obj->get(index);
- * obj->addAtHead(val);
- * obj->addAtTail(val);
- * obj->addAtIndex(index,val);
- * obj->deleteAtIndex(index);
- */
 ```
 
 ##### Solution from Carl
