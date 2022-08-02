@@ -24,7 +24,27 @@ public:
 };
 ```
 Time Complexity: O(n)  
-Space Complexity: O(1)  
+Space Complexity: O(1)
+
+2022.08.01  
+```
+class Solution {
+public:
+    ListNode* swapPairs(ListNode* head) {
+        ListNode *dummyhead = new ListNode(0,head);
+        ListNode *pre = dummyhead, *cur = head;
+        while(cur!= NULL && cur->next != NULL){
+                ListNode *tmp = cur->next->next ;
+                cur->next->next = cur;
+                pre->next = cur->next;
+                cur->next = tmp;
+                pre = cur;
+                cur = cur->next;
+        }
+            return dummyhead->next;
+    }
+};
+```
 
 ##### Solution from Carl
 ```
