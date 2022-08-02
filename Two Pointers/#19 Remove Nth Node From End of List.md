@@ -22,6 +22,26 @@ public:
     }
 };
 ```
+
+2022.08.01  
+```
+class Solution {
+public:
+    ListNode* removeNthFromEnd(ListNode* head, int n) {
+        ListNode *dummyhead = new ListNode(0, head);
+        ListNode *pre=dummyhead, *post=dummyhead;
+        while(n--)
+                post = post->next;
+        while(post->next){
+                post = post->next;
+                pre = pre->next;
+        }
+        
+        pre->next = pre->next->next;
+        return dummyhead->next;
+    }
+};
+```
 * 定义fast指针和slow指针，初始值为虚拟头结点，如图：
 
 <img src='https://code-thinking.cdn.bcebos.com/pics/19.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.png' width=600> </img></div>
