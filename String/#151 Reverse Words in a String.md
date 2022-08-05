@@ -39,6 +39,34 @@ public:
 };
 ```
 
+2022.08.04 Update  
+```
+class Solution {
+public:
+    string reverseWords(string s) {
+        string result;
+        string temp;
+        vector<string> str;
+        for(int i = 0;i<s.size();i++){
+                if(s[i] == ' '){
+                        if(temp.empty()) continue;
+                        str.push_back(temp);
+                        temp.clear();
+                }
+                else
+                        temp += s[i];
+                if(i == s.size()-1)
+                        str.push_back(temp);
+        }
+        for(int i=str.size()-1; i>=0; i--){
+                result += str[i]+' ';
+        }
+            result.pop_back();
+            return result;
+    }
+};
+```
+
 ##### Solution from Carl
 ```
 // 版本一
