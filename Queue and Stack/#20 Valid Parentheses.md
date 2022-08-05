@@ -21,6 +21,36 @@ public:
 };
 ```
 
+2022.08.04  
+```
+class Solution {
+public:
+    bool isValid(string s) {
+        stack<char> In, Out;
+        for(char ch:s)
+                In.push(ch);
+        
+        while(!In.empty()){
+                char pa = In.top();
+                In.pop();
+                if(!Out.empty()){
+                  if(pa == '[' && Out.top() == ']')
+                          Out.pop();
+                  else if(pa == '{' && Out.top() == '}')
+                          Out.pop();
+                  else if(pa == '(' && Out.top() == ')')
+                          Out.pop();
+                  else Out.push(pa);
+                }
+                else if(Out.empty())
+                        Out.push(pa);
+        }
+            return In.empty()&&Out.empty();
+    }
+};
+
+```
+
 ##### Solution from Carl
 ```
 class Solution {
