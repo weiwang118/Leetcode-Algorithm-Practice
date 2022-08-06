@@ -28,6 +28,27 @@ public:
 };
 ```
 
+2022.08.05  
+```
+class Solution {
+public:
+    string removeDuplicates(string s) {
+        stack<char> st;
+        for(char ch:s){
+                if(st.empty()||st.top()!=ch)
+                        st.push(ch);
+                else st.pop();
+        }
+        string str(st.size(),'0');
+        for(int i = str.size()-1; i>=0; i--){
+                str[i] = st.top();
+                st.pop();
+        }
+            return str;
+    }
+};
+```
+
 ##### Solution from Carl
 ```
 class Solution {
